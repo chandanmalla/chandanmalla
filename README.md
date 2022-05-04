@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
-<h3 align="center">A passionate Data Scientist Student at Indian Institute of Science Bangalore 🏫</h3>
+<h3 align="center">A Data Science Student at Indian Institute of Science Bangalore 🏫</h3>
 
 - 🌱 I’m currently learning **Time Series Analysis**
 
